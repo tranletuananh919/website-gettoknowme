@@ -1,0 +1,6 @@
+.center-image {
+    display: block;           /* Chuyển ảnh thành block */
+    margin: 0 auto;           /* Căn giữa theo chiều ngang */
+    max-width: 100%;
+    height: auto;
+}
